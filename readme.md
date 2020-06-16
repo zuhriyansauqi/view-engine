@@ -6,7 +6,9 @@
 
 [![tag](https://img.shields.io/github/tag/deligenius/view-engine.svg)](https://github.com/gjuoun/view-engine)
 [![license](https://img.shields.io/github/license/deligenius/view-engine.svg)](https://github.com/gjuoun/view-engine)
-[![tag](https://img.shields.io/badge/deno-v1.0.2-green.svg)](https://github.com/denoland/deno)
+[![tag](https://img.shields.io/badge/deno-v1.1.0-green.svg)](https://github.com/denoland/deno)
+
+[![tag](https://img.shields.io/badge/Oak-v5.2.0-yellow)](https://deno.land/x/oak@v5.2.0)
 
 ### Features:
 
